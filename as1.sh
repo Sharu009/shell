@@ -15,3 +15,5 @@ echo "total sum = $sum"
 echo "multi = $mult"
 echo "sub = $sub"
 echo "divi = $dev"
+all the best 
+best of luck 
